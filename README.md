@@ -1,2 +1,2 @@
 # linkedin
-linkedin cloud frond-end with Html,css,Javascript.
+linkedin clone project : frond-end with Html,css,Javascript.
